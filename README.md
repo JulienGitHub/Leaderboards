@@ -1,2 +1,2 @@
-# leaderboards
+# Leaderboards
 Pokemon Leaderboard scrapper
